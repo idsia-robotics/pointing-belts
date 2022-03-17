@@ -1,0 +1,589 @@
+{'publish_rate': 50.0, 'leds_file': '/home/gabri/Downloads/lab_real.yaml', 'pack_size': 0.5, 'belt_speed': 0.2, 'update_rate': 15.0, 'run_example': False, 'loop': True, 'feedback': ['selected', 'pointer', 'pointed', 'over'], 'duration': 120, 'start_proba': 0.3, 'end_proba': 0.5, 'tr_proba_start': 0.0, 'tr_proba_end': 0.0, 'start_speed': 0.0, 'end_speed': 0.2, 'timer_min': 3, 'timer_max_start': 7, 'timer_max_end': 7, 'packs_per_level': [3], 'static': True, 'unknown': False}
+2021-02-25T16:53:34.819152616, 0, {}
+2021-02-25T16:53:34.919121896, 0, {}
+2021-02-25T16:53:35.019101928, 0, {}
+2021-02-25T16:53:35.119365120, 0, {}
+2021-02-25T16:53:35.219570176, 0, {}
+2021-02-25T16:53:35.319518208, 0, {}
+2021-02-25T16:53:35.419124224, 0, {}
+2021-02-25T16:53:35.519430888, 0, {}
+2021-02-25T16:53:35.619545832, 0, {}
+2021-02-25T16:53:35.719244520, 0, {}
+2021-02-25T16:53:35.819229184, 0, {}
+2021-02-25T16:53:35.919231720, 0, {}
+2021-02-25T16:53:36.019447296, 0, {}
+2021-02-25T16:53:36.119197672, 0, {}
+2021-02-25T16:53:36.219420160, 0, {}
+2021-02-25T16:53:36.319381992, 0, {}
+2021-02-25T16:53:36.419189992, 0, {}
+2021-02-25T16:53:36.519166440, 0, {}
+2021-02-25T16:53:36.619459560, 0, {}
+2021-02-25T16:53:36.719404520, 0, {}
+2021-02-25T16:53:36.819293184, 0, {}
+2021-02-25T16:53:36.919232256, 0, {}
+2021-02-25T16:53:37.019291880, 0, {}
+2021-02-25T16:53:37.119517928, 0, {}
+2021-02-25T16:53:37.219123688, 0, {}
+2021-02-25T16:53:37.319429864, 0, {}
+2021-02-25T16:53:37.419192552, 0, {}
+2021-02-25T16:53:37.519205608, 0, {}
+2021-02-25T16:53:37.619189248, 0, {}
+2021-02-25T16:53:37.719534336, 0, {}
+2021-02-25T16:53:37.819520512, 0, {}
+2021-02-25T16:53:37.919223296, 0, {}
+2021-02-25T16:53:38.019469800, 0, {}
+2021-02-25T16:53:38.119144192, 0, {}
+2021-02-25T16:53:38.219371008, 0, {}
+2021-02-25T16:53:38.319486208, 0, {}
+2021-02-25T16:53:38.419441408, 0, {}
+2021-02-25T16:53:38.519322600, 0, {}
+2021-02-25T16:53:38.619287040, 0, {}
+2021-02-25T16:53:38.719251200, 0, {}
+2021-02-25T16:53:38.819289344, 0, {}
+2021-02-25T16:53:38.919431656, 0, {}
+2021-02-25T16:53:39.019340776, 0, {}
+2021-02-25T16:53:39.119305704, 0, {}
+2021-02-25T16:53:39.219339008, 0, {}
+2021-02-25T16:53:39.319236096, 0, {}
+2021-02-25T16:53:39.419436776, 0, {}
+2021-02-25T16:53:39.519308776, 0, {}
+2021-02-25T16:53:39.619277568, 0, {}
+2021-02-25T16:53:39.719370984, 0, {}
+2021-02-25T16:53:39.819423720, 0, {}
+2021-02-25T16:53:39.919195624, 0, {}
+2021-02-25T16:53:40.019341800, 0, {}
+2021-02-25T16:53:40.119428352, 0, {}
+2021-02-25T16:53:40.219227392, 0, {}
+2021-02-25T16:53:40.319324416, 0, {}
+2021-02-25T16:53:40.419371008, 0, {}
+2021-02-25T16:53:40.519261440, 0, {}
+2021-02-25T16:53:40.619300352, 0, {}
+2021-02-25T16:53:40.719153640, 0, {}
+2021-02-25T16:53:40.819171072, 0, {}
+2021-02-25T16:53:40.919463424, 0, {}
+2021-02-25T16:53:41.019357672, 0, {}
+2021-02-25T16:53:41.119384320, 0, {}
+2021-02-25T16:53:41.219403496, 0, {}
+2021-02-25T16:53:41.319274240, 0, {}
+2021-02-25T16:53:41.419195880, 0, {}
+2021-02-25T16:53:41.519397120, 0, {}
+2021-02-25T16:53:41.619185640, 0, {}
+2021-02-25T16:53:41.719293928, 0, {}
+2021-02-25T16:53:41.819541504, 0, {}
+2021-02-25T16:53:41.919253736, 0, {}
+2021-02-25T16:53:42.019579624, 0, {}
+2021-02-25T16:53:42.119463424, 0, {}
+2021-02-25T16:53:42.219334888, 0, {}
+2021-02-25T16:53:42.319271656, 0, {}
+2021-02-25T16:53:42.419272192, 0, {}
+2021-02-25T16:53:42.519371264, 0, {}
+2021-02-25T16:53:42.619346664, 0, {}
+2021-02-25T16:53:42.719390952, 0, {}
+2021-02-25T16:53:42.819115752, 0, {}
+2021-02-25T16:53:42.919301608, 0, {}
+2021-02-25T16:53:43.019379456, 0, {}
+2021-02-25T16:53:43.119394536, 0, {}
+2021-02-25T16:53:43.219579392, 0, {}
+2021-02-25T16:53:43.319331328, 0, {}
+2021-02-25T16:53:43.419548648, 0, {}
+2021-02-25T16:53:43.519203328, 0, {}
+2021-02-25T16:53:43.619388160, 0, {}
+2021-02-25T16:53:43.719167488, 0, {}
+2021-02-25T16:53:43.819283432, 0, {}
+2021-02-25T16:53:43.919216384, 0, {}
+2021-02-25T16:53:44.019165184, 0, {}
+2021-02-25T16:53:44.119225832, 0, {}
+2021-02-25T16:53:44.219469800, 0, {}
+2021-02-25T16:53:44.319333376, 0, {}
+2021-02-25T16:53:44.419198696, 0, {}
+2021-02-25T16:53:44.519483880, 0, {}
+2021-02-25T16:53:44.619229928, 0, {}
+2021-02-25T16:53:44.719233512, 0, {}
+2021-02-25T16:53:44.819443688, 0, {}
+2021-02-25T16:53:44.919152384, 0, {}
+2021-02-25T16:53:45.019421928, 0, {}
+2021-02-25T16:53:45.119220712, 0, {}
+2021-02-25T16:53:45.219552000, 0, {}
+2021-02-25T16:53:45.319403752, 0, {}
+2021-02-25T16:53:45.419233024, 0, {}
+2021-02-25T16:53:45.519399912, 0, {}
+2021-02-25T16:53:45.619167976, 0, {}
+2021-02-25T16:53:45.719318760, 0, {}
+2021-02-25T16:53:45.819342080, 0, {}
+2021-02-25T16:53:45.919346176, 0, {}
+2021-02-25T16:53:46.019174144, 0, {}
+2021-02-25T16:53:46.119553512, 0, {}
+2021-02-25T16:53:46.219181312, 0, {}
+2021-02-25T16:53:46.319170792, 0, {}
+2021-02-25T16:53:46.419458792, 0, {}
+2021-02-25T16:53:46.519287784, 0, {}
+2021-02-25T16:53:46.619248872, 0, {}
+2021-02-25T16:53:46.719152128, 0, {}
+2021-02-25T16:53:46.819399424, 0, {}
+2021-02-25T16:53:46.919389416, 0, {}
+2021-02-25T16:53:47.019251688, 0, {}
+2021-02-25T16:53:47.119472384, 0, {}
+2021-02-25T16:53:47.219487232, 0, {}
+2021-02-25T16:53:47.319386856, 0, {}
+2021-02-25T16:53:47.419594728, 0, {}
+2021-02-25T16:53:47.519312616, 0, {}
+2021-02-25T16:53:47.619328256, 0, {}
+2021-02-25T16:53:47.719317504, 0, {}
+2021-02-25T16:53:47.819219456, 0, {}
+2021-02-25T16:53:47.919240424, 0, {}
+2021-02-25T16:53:48.019448552, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.119449088, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.219179264, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.319162368, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.419125736, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.519182080, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.619395072, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.719211008, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.819403264, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:48.919438080, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.019289088, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.119344872, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.219321576, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.319447784, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.419219200, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.519398632, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.619401704, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.719264000, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.819302888, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:49.919506664, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.019270632, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.119332840, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.219389928, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.319263232, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.419256808, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.519157992, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.619431912, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.719435520, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.819366400, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:50.919228648, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.019368448, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.119169536, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.219241216, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.319447040, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.419267328, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.519314664, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.619160808, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.719410176, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.819277800, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:51.919113960, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.019448320, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.119240936, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.219297280, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.319304448, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.419479040, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.519204840, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.619207912, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.719130856, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.819381504, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:52.919336192, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.019285248, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.119424744, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.219131880, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.319173864, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.419272936, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.519351552, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.619234536, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.719240448, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.819172096, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:53.919448552, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.019236840, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.119443456, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.219218664, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.319167976, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.419400448, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.519241960, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.619310568, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.719161088, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.819368680, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:54.919390464, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:55.019290856, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:55.119431168, 0, {0: {'uid': 0, 'position': ('strip_0', 0.5716955065727234), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 1: {'uid': 1, 'position': ('strip_1', 0.18558081984519958), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 2: {'uid': 2, 'position': ('strip_1', 0.7846533060073853), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:53:55.219212520, 0, {}
+2021-02-25T16:53:55.319223040, 0, {}
+2021-02-25T16:53:55.419147008, 0, {}
+2021-02-25T16:53:55.519402728, 0, {}
+2021-02-25T16:53:55.619266304, 0, {}
+2021-02-25T16:53:55.719343104, 0, {}
+2021-02-25T16:53:55.819477248, 0, {}
+2021-02-25T16:53:55.919150080, 0, {}
+2021-02-25T16:53:56.019398632, 0, {}
+2021-02-25T16:53:56.119314176, 0, {}
+2021-02-25T16:53:56.219374336, 0, {}
+2021-02-25T16:53:56.319274728, 0, {}
+2021-02-25T16:53:56.419388648, 0, {}
+2021-02-25T16:53:56.519227880, 0, {}
+2021-02-25T16:53:56.619258600, 0, {}
+2021-02-25T16:53:56.719262696, 0, {}
+2021-02-25T16:53:56.819191528, 0, {}
+2021-02-25T16:53:56.919230440, 0, {}
+2021-02-25T16:53:57.019237608, 0, {}
+2021-02-25T16:53:57.119369704, 0, {}
+2021-02-25T16:53:57.219442176, 0, {}
+2021-02-25T16:53:57.319306240, 0, {}
+2021-02-25T16:53:57.419247592, 0, {}
+2021-02-25T16:53:57.519216128, 0, {}
+2021-02-25T16:53:57.619506920, 0, {}
+2021-02-25T16:53:57.719397376, 0, {}
+2021-02-25T16:53:57.819377408, 0, {}
+2021-02-25T16:53:57.919171816, 0, {}
+2021-02-25T16:53:58.019284712, 0, {}
+2021-02-25T16:53:58.119184128, 0, {}
+2021-02-25T16:53:58.219236584, 0, {}
+2021-02-25T16:53:58.319467496, 0, {}
+2021-02-25T16:53:58.419342080, 0, {}
+2021-02-25T16:53:58.519145704, 0, {}
+2021-02-25T16:53:58.619124968, 0, {}
+2021-02-25T16:53:58.719396352, 0, {}
+2021-02-25T16:53:58.819377640, 0, {}
+2021-02-25T16:53:58.919161344, 0, {}
+2021-02-25T16:53:59.019470336, 0, {}
+2021-02-25T16:53:59.119407592, 0, {}
+2021-02-25T16:53:59.219252968, 0, {}
+2021-02-25T16:53:59.319463912, 0, {}
+2021-02-25T16:53:59.419431168, 0, {}
+2021-02-25T16:53:59.519329512, 0, {}
+2021-02-25T16:53:59.619419880, 0, {}
+2021-02-25T16:53:59.719124712, 0, {}
+2021-02-25T16:53:59.819449088, 0, {}
+2021-02-25T16:53:59.919295976, 0, {}
+2021-02-25T16:54:00.019394304, 0, {}
+2021-02-25T16:54:00.119199976, 0, {}
+2021-02-25T16:54:00.219588584, 0, {}
+2021-02-25T16:54:00.319154664, 1, {}
+2021-02-25T16:54:00.419461864, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:00.519243496, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:00.619273704, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:00.719312384, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:00.819195136, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:00.919472872, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.019462632, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.119208192, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.219286528, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.319448552, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.419338472, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.519390208, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.619241472, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.719167232, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.819267560, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:01.919143912, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.019324648, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.119384552, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.219317992, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.319240936, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.419208936, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.519235072, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.619362048, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.719239912, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:02.819443200, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:02.919269864, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.019182824, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.119320064, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.219238888, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.319250432, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.419280128, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.519148520, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.619376872, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.719513344, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.819240680, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:03.919241704, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:04.019268096, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:04.119270400, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:04.219402728, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:04.319209960, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:04.419307264, 1, {3: {'uid': 3, 'position': ('strip_0', 0.4724118113517761), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 4: {'uid': 4, 'position': ('strip_0', 0.8215899467468262), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 5: {'uid': 5, 'position': ('strip_1', 0.7571067810058594), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}}
+2021-02-25T16:54:04.519129088, 1, {}
+2021-02-25T16:54:04.619406568, 1, {}
+2021-02-25T16:54:04.719299328, 1, {}
+2021-02-25T16:54:04.819295720, 1, {}
+2021-02-25T16:54:04.919300584, 1, {}
+2021-02-25T16:54:05.019240448, 1, {}
+2021-02-25T16:54:05.119190016, 1, {}
+2021-02-25T16:54:05.219316224, 1, {}
+2021-02-25T16:54:05.319532288, 1, {}
+2021-02-25T16:54:05.419476456, 1, {}
+2021-02-25T16:54:05.519326696, 1, {}
+2021-02-25T16:54:05.619205864, 1, {}
+2021-02-25T16:54:05.719239912, 1, {}
+2021-02-25T16:54:05.819283688, 1, {}
+2021-02-25T16:54:05.919288808, 1, {}
+2021-02-25T16:54:06.019377408, 1, {}
+2021-02-25T16:54:06.119254760, 1, {}
+2021-02-25T16:54:06.219231720, 1, {}
+2021-02-25T16:54:06.319369960, 1, {}
+2021-02-25T16:54:06.419352552, 1, {}
+2021-02-25T16:54:06.519310080, 1, {}
+2021-02-25T16:54:06.619318272, 1, {}
+2021-02-25T16:54:06.719431424, 1, {}
+2021-02-25T16:54:06.819175656, 1, {}
+2021-02-25T16:54:06.919222760, 1, {}
+2021-02-25T16:54:07.019496448, 1, {}
+2021-02-25T16:54:07.119436288, 1, {}
+2021-02-25T16:54:07.219218176, 1, {}
+2021-02-25T16:54:07.319515136, 1, {}
+2021-02-25T16:54:07.419185152, 1, {}
+2021-02-25T16:54:07.519407848, 1, {}
+2021-02-25T16:54:07.619484160, 1, {}
+2021-02-25T16:54:07.719457768, 1, {}
+2021-02-25T16:54:07.819463168, 1, {}
+2021-02-25T16:54:07.919302144, 1, {}
+2021-02-25T16:54:08.019237608, 1, {}
+2021-02-25T16:54:08.119262208, 1, {}
+2021-02-25T16:54:08.219501800, 1, {}
+2021-02-25T16:54:08.319147264, 1, {}
+2021-02-25T16:54:08.419469800, 1, {}
+2021-02-25T16:54:08.519230464, 1, {}
+2021-02-25T16:54:08.619253504, 1, {}
+2021-02-25T16:54:08.719298792, 1, {}
+2021-02-25T16:54:08.819339496, 1, {}
+2021-02-25T16:54:08.919207424, 1, {}
+2021-02-25T16:54:09.019441896, 1, {}
+2021-02-25T16:54:09.119247104, 1, {}
+2021-02-25T16:54:09.219264488, 1, {}
+2021-02-25T16:54:09.319346664, 1, {}
+2021-02-25T16:54:09.419152872, 1, {}
+2021-02-25T16:54:09.519292904, 1, {}
+2021-02-25T16:54:09.619237608, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:09.719508480, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:09.819368448, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:09.919123200, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.019316224, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.119577344, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.219227624, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.319356648, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.419388160, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.519165928, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.619397608, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.719341312, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.819337216, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:10.919345408, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.019323880, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.119476968, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.219569408, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.319608808, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.419266792, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.519501312, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.619196160, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.719527912, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.819673832, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:11.919433704, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.019317736, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.119281896, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.219415296, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.319279848, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.419552256, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.519231720, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.619343592, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.719195392, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.819477992, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:12.919617024, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:13.019308520, 2, {6: {'uid': 6, 'position': ('strip_0', 0.33926910161972046), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 7: {'uid': 7, 'position': ('strip_0', 0.9928857684135437), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 8: {'uid': 8, 'position': ('strip_1', 0.8807462453842163), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:13.119353832, 2, {}
+2021-02-25T16:54:13.219369472, 2, {}
+2021-02-25T16:54:13.319273448, 2, {}
+2021-02-25T16:54:13.419451136, 2, {}
+2021-02-25T16:54:13.519305448, 2, {}
+2021-02-25T16:54:13.619458792, 2, {}
+2021-02-25T16:54:13.719439360, 2, {}
+2021-02-25T16:54:13.819268096, 2, {}
+2021-02-25T16:54:13.919469312, 2, {}
+2021-02-25T16:54:14.019514856, 2, {}
+2021-02-25T16:54:14.119431424, 2, {}
+2021-02-25T16:54:14.219299072, 2, {}
+2021-02-25T16:54:14.319203560, 2, {}
+2021-02-25T16:54:14.419385344, 2, {}
+2021-02-25T16:54:14.519305448, 2, {}
+2021-02-25T16:54:14.619380968, 2, {}
+2021-02-25T16:54:14.719282432, 2, {}
+2021-02-25T16:54:14.819270400, 2, {}
+2021-02-25T16:54:14.919386856, 2, {}
+2021-02-25T16:54:15.019441152, 2, {}
+2021-02-25T16:54:15.119276288, 2, {}
+2021-02-25T16:54:15.219340520, 2, {}
+2021-02-25T16:54:15.319420904, 2, {}
+2021-02-25T16:54:15.419235328, 2, {}
+2021-02-25T16:54:15.519442664, 2, {}
+2021-02-25T16:54:15.619448320, 2, {}
+2021-02-25T16:54:15.719558144, 2, {}
+2021-02-25T16:54:15.819387880, 2, {}
+2021-02-25T16:54:15.919452648, 2, {}
+2021-02-25T16:54:16.019181544, 2, {}
+2021-02-25T16:54:16.119429608, 2, {}
+2021-02-25T16:54:16.219365608, 2, {}
+2021-02-25T16:54:16.319464680, 2, {}
+2021-02-25T16:54:16.419400936, 2, {}
+2021-02-25T16:54:16.519178240, 2, {}
+2021-02-25T16:54:16.619097088, 2, {}
+2021-02-25T16:54:16.719366144, 2, {}
+2021-02-25T16:54:16.819451880, 2, {}
+2021-02-25T16:54:16.919205120, 2, {}
+2021-02-25T16:54:17.019310568, 2, {}
+2021-02-25T16:54:17.119378664, 2, {}
+2021-02-25T16:54:17.219483624, 2, {}
+2021-02-25T16:54:17.319485440, 2, {}
+2021-02-25T16:54:17.419285992, 2, {}
+2021-02-25T16:54:17.519405312, 2, {}
+2021-02-25T16:54:17.619182080, 2, {}
+2021-02-25T16:54:17.719403752, 2, {}
+2021-02-25T16:54:17.819547880, 2, {}
+2021-02-25T16:54:17.919270144, 2, {}
+2021-02-25T16:54:18.019549440, 2, {}
+2021-02-25T16:54:18.119161576, 2, {}
+2021-02-25T16:54:18.219318016, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:18.319330048, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:18.419433216, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:18.519130600, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:18.619206632, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:18.719522792, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:18.819259624, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:18.919296256, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.019539688, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.119155200, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.219091944, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.319503848, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.419497472, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.519237608, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.619415040, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.719417576, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.819276032, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:19.919387136, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.019384064, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.119314920, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.219363072, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.319282664, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.419453440, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.519245312, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.619401448, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.719437800, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.819364584, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:20.919189736, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.019435264, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.119457536, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.219440384, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.319194112, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.419239168, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.519320552, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.619259392, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.719226112, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.819309568, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:21.919384576, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.019450112, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.119231488, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.219292160, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.319408872, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.419469056, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.519129088, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.619359488, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.719232256, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.819215104, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:22.919381248, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.019405312, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.119445992, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.219372776, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.319376872, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.419357672, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.519388904, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.619457280, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.719405800, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.819427328, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:23.919369448, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:24.019398144, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:24.119457280, 3, {9: {'uid': 9, 'position': ('strip_0', 0.3505798876285553), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 10: {'uid': 10, 'position': ('strip_0', 0.8726373910903931), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 11: {'uid': 11, 'position': ('strip_1', 0.5985270738601685), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:24.219188224, 3, {}
+2021-02-25T16:54:24.319389672, 3, {}
+2021-02-25T16:54:24.419452648, 3, {}
+2021-02-25T16:54:24.519376384, 3, {}
+2021-02-25T16:54:24.619401448, 3, {}
+2021-02-25T16:54:24.719456000, 3, {}
+2021-02-25T16:54:24.819201280, 3, {}
+2021-02-25T16:54:24.919361280, 3, {}
+2021-02-25T16:54:25.019365864, 3, {}
+2021-02-25T16:54:25.119328744, 3, {}
+2021-02-25T16:54:25.219388160, 3, {}
+2021-02-25T16:54:25.319348224, 3, {}
+2021-02-25T16:54:25.419570176, 3, {}
+2021-02-25T16:54:25.519475944, 3, {}
+2021-02-25T16:54:25.619178472, 3, {}
+2021-02-25T16:54:25.719478760, 3, {}
+2021-02-25T16:54:25.819283200, 3, {}
+2021-02-25T16:54:25.919168744, 3, {}
+2021-02-25T16:54:26.019346408, 3, {}
+2021-02-25T16:54:26.119356160, 3, {}
+2021-02-25T16:54:26.219380968, 3, {}
+2021-02-25T16:54:26.319412712, 3, {}
+2021-02-25T16:54:26.419289576, 3, {}
+2021-02-25T16:54:26.519441896, 3, {}
+2021-02-25T16:54:26.619395328, 3, {}
+2021-02-25T16:54:26.719320808, 3, {}
+2021-02-25T16:54:26.819336680, 3, {}
+2021-02-25T16:54:26.919366888, 3, {}
+2021-02-25T16:54:27.019206888, 3, {}
+2021-02-25T16:54:27.119380480, 3, {}
+2021-02-25T16:54:27.219225344, 3, {}
+2021-02-25T16:54:27.319408128, 3, {}
+2021-02-25T16:54:27.419412968, 3, {}
+2021-02-25T16:54:27.519140352, 3, {}
+2021-02-25T16:54:27.619255528, 3, {}
+2021-02-25T16:54:27.719140840, 3, {}
+2021-02-25T16:54:27.819296744, 3, {}
+2021-02-25T16:54:27.919377640, 3, {}
+2021-02-25T16:54:28.019371496, 3, {}
+2021-02-25T16:54:28.119168744, 3, {}
+2021-02-25T16:54:28.219427328, 3, {}
+2021-02-25T16:54:28.319249152, 3, {}
+2021-02-25T16:54:28.419307264, 3, {}
+2021-02-25T16:54:28.519187456, 3, {}
+2021-02-25T16:54:28.619196904, 3, {}
+2021-02-25T16:54:28.719388904, 3, {}
+2021-02-25T16:54:28.819278336, 3, {}
+2021-02-25T16:54:28.919212288, 3, {}
+2021-02-25T16:54:29.019413992, 3, {}
+2021-02-25T16:54:29.119291880, 3, {}
+2021-02-25T16:54:29.219175656, 3, {}
+2021-02-25T16:54:29.319301864, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:29.419597312, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:29.519306496, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:29.619232512, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:29.719392488, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:29.819243264, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:29.919519976, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.019281896, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.119375592, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.219374336, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.319187200, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.419178240, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.519355392, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.619239912, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': False, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.719107560, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.819345896, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:30.919368936, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.019178984, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.119371520, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.219193832, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.319170304, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.419316712, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.519587560, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.619308544, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.719343360, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.819380456, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:31.919180776, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.019459328, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.119411688, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.219222760, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.319149312, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.419485440, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.519246336, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.619164416, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.719236352, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.819370472, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:32.919305960, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:33.019204840, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:33.119279360, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:33.219296256, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:33.319213312, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:33.419361768, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
+2021-02-25T16:54:33.519235328, 4, {12: {'uid': 12, 'position': ('strip_0', 0.5516718626022339), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}, 13: {'uid': 13, 'position': ('strip_1', 0.2028956413269043), 'type': 1, 'length': 0.0, 'selected': True, 'unknown': False}, 14: {'uid': 14, 'position': ('strip_1', 0.8834295272827148), 'type': 0, 'length': 0.0, 'selected': False, 'unknown': False}}
