@@ -17,9 +17,9 @@ Quantitative results show that our interface compares favorably to the baseline,
 
 ### Repository Structure
 This repository is organized as follows:
-- `submission`: contains the paper, a summary video, supplementary video materials, experimental datasets and code to analyze them.
+- `submission`: contains the video submission, supplementary video materials, experimental datasets and code to analyze them.
 
-### Summary Video (click to open on youtube)
+### Video Submission (click to open on youtube)
 
 [![IMU-based  pointing  for  package  selection  on  industrial  conveyor  belts](https://github.com/idsia-robotics/pointing-belts/blob/master/submission/thumbnails/video_sub.gif)](https://youtu.be/hB33cX6pvmg)
 
