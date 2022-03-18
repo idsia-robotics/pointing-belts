@@ -1,4 +1,4 @@
-# IMU-based pointing for package selection on industrial conveyor belts
+# Selecting Objects on Conveyor Belts Using Pointing Gestures Sensed by a Wrist-worn Inertial Measurement Unit
 
 *submitted at CASE22*
 
@@ -21,7 +21,7 @@ This repository is organized as follows:
 
 ### Video Submission (click to open on youtube)
 
-[![IMU-based  pointing  for  package  selection  on  industrial  conveyor  belts](https://github.com/idsia-robotics/pointing-belts/blob/master/submission/thumbnails/video_sub.gif)](https://youtu.be/hB33cX6pvmg)
+[![IMU-based  pointing  for  package  selection  on  industrial  conveyor  belts](https://github.com/idsia-robotics/pointing-belts/blob/master/submission/thumbnails/video_sub.gif)](https://youtu.be/fEnPEXPlVIM)
 
 ### Supplementary Video
 #### Virtual Reality World and Real World Overlapping (click to open on youtube)
